@@ -57,7 +57,7 @@ img{
 }
 .paginao{
     height: 400px;
-    background-image: url(/html/pizzaria/img/pizza.jpg);
+    background-image: url(/pizzaria/img/pizza.jpg);
     opacity: 0.80;
     background-size: cover;
     display: flex;
